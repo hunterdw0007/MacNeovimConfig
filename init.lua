@@ -10,3 +10,7 @@ require("hunter.plugins.nvim-cmp")
 require("hunter.plugins.lsp.mason")
 require("hunter.plugins.lsp.lspconfig")
 require("hunter.plugins.lsp.lspsaga")
+require("hunter.plugins.autopairs")
+require("hunter.plugins.treesitter")
+require("hunter.plugins.gitsigns")
+
